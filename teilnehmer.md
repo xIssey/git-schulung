@@ -2,4 +2,4 @@
 
 | Name | Branch | PR erstellt? |
 |------|--------|--------------|
-| Max Mustermann | feature/max-mustermann | Ja |
+| Isabell Stumbaum | feature/isabell | Ja |
