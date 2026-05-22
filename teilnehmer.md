@@ -3,4 +3,3 @@
 | Name | Branch | PR erstellt? |
 |------|--------|--------------|
 | Isabell Stumbaum | feature/isabell | Ja |
-|Violeta | 
